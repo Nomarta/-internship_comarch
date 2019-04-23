@@ -1,1 +1,1 @@
-# -internship_comarch
+# internship_comarch
